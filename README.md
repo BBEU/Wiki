@@ -1,0 +1,2 @@
+# Wiki
+Auto Remove Cookies
